@@ -1,0 +1,7 @@
+﻿services:
+  miniapp:
+    image: miniapp
+    build:
+      context: .
+      dockerfile: MiniApp/Dockerfile
+

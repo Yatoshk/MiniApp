@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BOeWFtDfg5kPqtTvlb0A/xjIsJMzoFh7b/+DE4xlubg=",
+  "Source": "MiniApp",
+  "BasePath": "_content/MiniApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
