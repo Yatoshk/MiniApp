@@ -1,1 +1,2 @@
-в папке MiniApp запускаем docker (docker compose up)
+docker build -t miniapp -f MiniApp/Dockerfile .
+docker compose up
