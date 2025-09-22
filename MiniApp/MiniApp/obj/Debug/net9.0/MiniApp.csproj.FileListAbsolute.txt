@@ -34,3 +34,4 @@ E:\Projects\Git\ASP.NET\MiniApp\MiniApp\MiniApp\obj\Debug\net9.0\refint\MiniApp.
 E:\Projects\Git\ASP.NET\MiniApp\MiniApp\MiniApp\obj\Debug\net9.0\MiniApp.pdb
 E:\Projects\Git\ASP.NET\MiniApp\MiniApp\MiniApp\obj\Debug\net9.0\MiniApp.genruntimeconfig.cache
 E:\Projects\Git\ASP.NET\MiniApp\MiniApp\MiniApp\obj\Debug\net9.0\ref\MiniApp.dll
+E:\Projects\Git\ASP.NET\MiniApp\MiniApp\MiniApp\obj\Debug\net9.0\MiniApp.sourcelink.json
